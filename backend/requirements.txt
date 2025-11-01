@@ -1,0 +1,9 @@
+fastapi==0.115.4
+uvicorn[standard]==0.32.0
+pillow==10.4.0
+torch==2.3.1
+torchvision==0.18.1
+ftfy==6.2.3
+regex==2024.7.24
+tqdm==4.66.5
+git+https://github.com/openai/CLIP.git
